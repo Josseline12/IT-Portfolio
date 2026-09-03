@@ -60,7 +60,7 @@ I also checked that the conductors matched the T568B color-coded wiring guide an
 Once I verified the termination, I installed the protective cap over the IDC terminals. The cap helps protect the terminated conductors and keeps them secured inside the keystone jack.
 
 <p align="center">
-  <img src="images/AddedProtectiveCap.jpeg" width="500">
+  <img src="images/AddedProtectiveCap.JPG" width="500">
 </p>
 <p align="center"><em>Added protective cap</em>
 
