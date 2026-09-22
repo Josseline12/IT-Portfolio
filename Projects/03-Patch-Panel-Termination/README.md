@@ -82,7 +82,7 @@ As I worked through each port, I organized the cable runs that I terminated in a
 Keeping the cable runs organized is important in a larger network because a network technician may eventually need to identify, troubleshoot, or replace a specific cable run. Having proper cable management can make it easier to trace a cable back to its corresponding patch panel port and work on an individual run without having to sort through an unorganized group of cables.
 
 <p align="center">
- <img src="images/CloseUpOfTerminations.jpeg" width="600">
+ <img src="images/CloseUpofTerminations.jpeg" width="600">
 </p>
 <p align="center"><em>Completed rear patch panel terminations with the cable runs organized.</em></p>
 
