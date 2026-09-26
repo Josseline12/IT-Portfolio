@@ -41,7 +41,7 @@ I terminated one end of the Cat6 cable into a keystone jack using the T568B wiri
 As mentioned before, a user could connect a patch cable from the wall outlet containing the keystone jack to their device. The permanent Cat6 cable behind the wall would then run from the keystone jack back to the patch panel.
 I documented the keystone termination process in more detail in my [02-Keystone Jack Termination](../02-Keystone-Jack-Termination/) project.
 
-https://github.com/user-attachments/assets/ef34b3eb-91c6-4d38-9f59-76779d824798
+https://github.com/user-attachments/assets/a357de2b-3ea4-4eb2-9e6a-d1dbd64c3efa
 
 <p align="center"><em> This video shows the process followed to terminate a Cat6 cable into a keystone jack.</em></p>
 
@@ -91,9 +91,15 @@ Keeping the cable runs organized is important in a larger network because a netw
 After completing all of the terminations, I had 12 Cat6 cable runs with one end terminated to a keystone jack and the other end terminated to the patch panel. I also connected 8 patch cables to the front of the patch panel, which will be connected to an 8-port switch in my next lab. All the cable runs were organized, secured, and tested using an Ethernet cable tester.
 
 <p align="center">
- <img src="images/FinalResultOfTerminations.jpeg" width="600">
+ <img src="images/FinalResultsBack.jpeg" width="600">
 </p>
 <p align="center"><em>Completed Cat6 cable runs with one end terminated at the patch panel and the opposite ends terminated to their corresponding keystone jacks.</em></p>
+
+<p align="center">
+ <img src="images/PatchPanelConnectedToSwitch.jpeg" width="600">
+</p>
+<p align="center"><em>Used patch cables to connect patch panel to switch.</em></p>
+
 
 ### 8. What I Learned
 
