@@ -44,7 +44,7 @@ The IDC terminals make contact with the conductor by cutting through its insulat
 I repeated the process for all eight conductors and inspected each termination to make sure the wires were fully seated and the excess conductor ends had been trimmed properly.
 
 <p align="center">
-  <img src="images/PunchdownConductors.jpeg" width="500">
+  <img src="images/Punchdown.jpeg" width="500">
 </p>
 <p align="center"><em>Using a 110 punchdown tool to seat and trim the conductors in the Keystone jack.</em>
 
