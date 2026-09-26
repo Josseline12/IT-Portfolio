@@ -73,7 +73,7 @@ I repeated the same termination process on the opposite end of the Cat6 cable us
 
 ### Keystone Jack Termination Demonstration
 
-The video below shows the process I followed to position and punch down the conductors into a keystone jack.
+The videos below shows the process I followed to position and punch down the conductors into a keystone jack.
 
 **Preparing Cat6 Cable**
 
@@ -85,8 +85,7 @@ https://github.com/user-attachments/assets/09285a2d-6f31-42d0-86af-4b5d17d51f28
 
 **Punching Down the Conductors**
 
-https://github.com/user-attachments/assets/fc482ca9-6069-4e69-9635-c7cbfda93f93
-
+https://github.com/user-attachments/assets/9c0cf8b8-6b1d-43d5-b571-dc9320198074
 
 ### 5. Testing the Connection
 
